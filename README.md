@@ -23,8 +23,9 @@ The leaderboard for evidence retrieval task in QASPER dataset
 | LED-base+InfoNCE loss | 24.90 | 30.60 |
 | ELECTRA-CE | 31.75 | 36.37 |
 | ELECTRA-CE-FT | 31.58 | 36.12 |
-| OpenAI embedding API | | |
+| OpenAI embedding API Top-1 (LED test script)| 24.41 | 30.02 |
+| OpenAI embedding API Best (LED test script)| 35.04 | 40.16 |
 | OpenAI ChatGPT with prompt | | |
-| SciDPR Top-1 (LED test script) | | |
-| SciDPR Best  (LED test script) | | |
+| SciDPR Top-1 (LED test script) | 25.41 | 30.38 |
+| SciDPR Best  (LED test script) | 36.83 | 40.67 |
 | Human (lower bound) | - | 71.62 |
